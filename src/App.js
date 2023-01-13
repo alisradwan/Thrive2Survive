@@ -28,7 +28,7 @@ function App() {
         <Header />
         <main>
           <Switch>
-            <Route exact path="/" component={Terminal} />
+            <Route exact path="/Thrive2Survive" component={Terminal} />
             <Route exact path="/Home" component={Home} />
             <Route exact path="/Connections" component={Connections} />
             <Route

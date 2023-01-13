@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Thrive2Survive/static/css/main.ceeb0a6e.css",
-    "main.js": "/Thrive2Survive/static/js/main.639628da.js",
+    "main.js": "/Thrive2Survive/static/js/main.97f2234f.js",
     "static/media/Carmine-interview.mp4": "/Thrive2Survive/static/media/Carmine-interview.c52cc12d9d42d82a358e.mp4",
     "static/media/—Pngtree—important-announcement-design-vector-png_8426132.png": "/Thrive2Survive/static/media/—Pngtree—important-announcement-design-vector-png_8426132.dd932179fe415687a50d.png",
     "static/media/DSC2322-2-683x1024.jpg": "/Thrive2Survive/static/media/DSC2322-2-683x1024.314b4e61e86119620df3.jpg",
@@ -18,10 +18,10 @@
     "static/media/thrive2survive.jpg": "/Thrive2Survive/static/media/thrive2survive.c8e0ca8bb56d46c0a859.jpg",
     "index.html": "/Thrive2Survive/index.html",
     "main.ceeb0a6e.css.map": "/Thrive2Survive/static/css/main.ceeb0a6e.css.map",
-    "main.639628da.js.map": "/Thrive2Survive/static/js/main.639628da.js.map"
+    "main.97f2234f.js.map": "/Thrive2Survive/static/js/main.97f2234f.js.map"
   },
   "entrypoints": [
     "static/css/main.ceeb0a6e.css",
-    "static/js/main.639628da.js"
+    "static/js/main.97f2234f.js"
   ]
 }

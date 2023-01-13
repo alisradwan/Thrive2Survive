@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/thrive2survive/static/css/main.ceeb0a6e.css",
-    "main.js": "/thrive2survive/static/js/main.0d9eb5fe.js",
-    "static/media/Carmine-interview.mp4": "/thrive2survive/static/media/Carmine-interview.c52cc12d9d42d82a358e.mp4",
-    "static/media/—Pngtree—important-announcement-design-vector-png_8426132.png": "/thrive2survive/static/media/—Pngtree—important-announcement-design-vector-png_8426132.dd932179fe415687a50d.png",
-    "static/media/DSC2322-2-683x1024.jpg": "/thrive2survive/static/media/DSC2322-2-683x1024.314b4e61e86119620df3.jpg",
-    "static/media/DSC2178-684x1024.jpg": "/thrive2survive/static/media/DSC2178-684x1024.1d94114fa2c0065e164e.jpg",
-    "static/media/mural-group-picture-website.jpg": "/thrive2survive/static/media/mural-group-picture-website.332e66a8bb28e23e87db.jpg",
-    "static/media/Oct-Outreach-partner-results.jpg": "/thrive2survive/static/media/Oct-Outreach-partner-results.4a97c5095346703edf29.jpg",
-    "static/media/DSC2294-684x1024.jpg": "/thrive2survive/static/media/DSC2294-684x1024.3146b4286475d9bac574.jpg",
-    "static/media/DSC2328-2-684x1024.jpg": "/thrive2survive/static/media/DSC2328-2-684x1024.45f407944e717d1fc1c7.jpg",
-    "static/media/DSC2253-1-683x1024.jpg": "/thrive2survive/static/media/DSC2253-1-683x1024.b6565ff75b0566f99a81.jpg",
-    "static/media/tim-roori-chales-and-i-3.19.22.jpg": "/thrive2survive/static/media/tim-roori-chales-and-i-3.19.22.25061689ee2772ecff9a.jpg",
-    "static/media/Navagatiion-center-grouo-photo.jpg": "/thrive2survive/static/media/Navagatiion-center-grouo-photo.412219013e5d7ab4e871.jpg",
-    "static/media/Untitled-presentation-2.png": "/thrive2survive/static/media/Untitled-presentation-2.b3e710783c98ba08ea4f.png",
-    "static/media/homeless-connect-flier.jpg": "/thrive2survive/static/media/homeless-connect-flier.954e202aa806d87b8a0e.jpg",
-    "static/media/thrive2survive.jpg": "/thrive2survive/static/media/thrive2survive.c8e0ca8bb56d46c0a859.jpg",
-    "index.html": "/thrive2survive/index.html",
-    "main.ceeb0a6e.css.map": "/thrive2survive/static/css/main.ceeb0a6e.css.map",
-    "main.0d9eb5fe.js.map": "/thrive2survive/static/js/main.0d9eb5fe.js.map"
+    "main.css": "/Thrive2Survive/static/css/main.ceeb0a6e.css",
+    "main.js": "/Thrive2Survive/static/js/main.639628da.js",
+    "static/media/Carmine-interview.mp4": "/Thrive2Survive/static/media/Carmine-interview.c52cc12d9d42d82a358e.mp4",
+    "static/media/—Pngtree—important-announcement-design-vector-png_8426132.png": "/Thrive2Survive/static/media/—Pngtree—important-announcement-design-vector-png_8426132.dd932179fe415687a50d.png",
+    "static/media/DSC2322-2-683x1024.jpg": "/Thrive2Survive/static/media/DSC2322-2-683x1024.314b4e61e86119620df3.jpg",
+    "static/media/DSC2178-684x1024.jpg": "/Thrive2Survive/static/media/DSC2178-684x1024.1d94114fa2c0065e164e.jpg",
+    "static/media/mural-group-picture-website.jpg": "/Thrive2Survive/static/media/mural-group-picture-website.332e66a8bb28e23e87db.jpg",
+    "static/media/Oct-Outreach-partner-results.jpg": "/Thrive2Survive/static/media/Oct-Outreach-partner-results.4a97c5095346703edf29.jpg",
+    "static/media/DSC2294-684x1024.jpg": "/Thrive2Survive/static/media/DSC2294-684x1024.3146b4286475d9bac574.jpg",
+    "static/media/DSC2328-2-684x1024.jpg": "/Thrive2Survive/static/media/DSC2328-2-684x1024.45f407944e717d1fc1c7.jpg",
+    "static/media/DSC2253-1-683x1024.jpg": "/Thrive2Survive/static/media/DSC2253-1-683x1024.b6565ff75b0566f99a81.jpg",
+    "static/media/tim-roori-chales-and-i-3.19.22.jpg": "/Thrive2Survive/static/media/tim-roori-chales-and-i-3.19.22.25061689ee2772ecff9a.jpg",
+    "static/media/Navagatiion-center-grouo-photo.jpg": "/Thrive2Survive/static/media/Navagatiion-center-grouo-photo.412219013e5d7ab4e871.jpg",
+    "static/media/Untitled-presentation-2.png": "/Thrive2Survive/static/media/Untitled-presentation-2.b3e710783c98ba08ea4f.png",
+    "static/media/homeless-connect-flier.jpg": "/Thrive2Survive/static/media/homeless-connect-flier.954e202aa806d87b8a0e.jpg",
+    "static/media/thrive2survive.jpg": "/Thrive2Survive/static/media/thrive2survive.c8e0ca8bb56d46c0a859.jpg",
+    "index.html": "/Thrive2Survive/index.html",
+    "main.ceeb0a6e.css.map": "/Thrive2Survive/static/css/main.ceeb0a6e.css.map",
+    "main.639628da.js.map": "/Thrive2Survive/static/js/main.639628da.js.map"
   },
   "entrypoints": [
     "static/css/main.ceeb0a6e.css",
-    "static/js/main.0d9eb5fe.js"
+    "static/js/main.639628da.js"
   ]
 }

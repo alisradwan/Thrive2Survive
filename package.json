@@ -2,7 +2,7 @@
   "name": "thrive2survive",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alisradwan.github.io/thrive2survive",
+  "homepage": "https://alisradwan.github.io/Thrive2Survive",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.1",
     "@testing-library/jest-dom": "^4.2.4",

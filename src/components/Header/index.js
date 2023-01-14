@@ -12,9 +12,15 @@ function Header() {
   return (
     <>
       <Navbar collapseOnSelect expand="lg" className="bg-light shadow">
+        <LinkContainer to="/Home">
+          <Nav.Link>
+            <h6 className="headerTitle">Thrive2Survive</h6>
+          </Nav.Link>
+        </LinkContainer>
+
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
-          <Nav className="mr-auto">
+          <Nav className="mr-auto ali">
             <LinkContainer to="/Home">
               <Nav.Link>Home</Nav.Link>
             </LinkContainer>

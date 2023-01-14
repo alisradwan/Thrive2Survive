@@ -39,7 +39,7 @@ function Terminal(props) {
             </p>
             <Typist.Delay ms={150}></Typist.Delay>
             <span className="pr-2 pr-md-4">&#x203A;</span>
-            <span className="text-light">meet thrive2survive();</span>
+            <span className="text-light">Meet Thrive2Survive();</span>
           </Typist>
         </span>
         {showSuccess && <p className="text-success mt-3">Redirecting...</p>}

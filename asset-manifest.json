@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Thrive2Survive/static/css/main.5ae1e54a.css",
-    "main.js": "/Thrive2Survive/static/js/main.97f2234f.js",
+    "main.css": "/Thrive2Survive/static/css/main.0a7347d1.css",
+    "main.js": "/Thrive2Survive/static/js/main.4579d5c7.js",
     "static/media/Carmine-interview.mp4": "/Thrive2Survive/static/media/Carmine-interview.c52cc12d9d42d82a358e.mp4",
     "static/media/—Pngtree—important-announcement-design-vector-png_8426132.png": "/Thrive2Survive/static/media/—Pngtree—important-announcement-design-vector-png_8426132.dd932179fe415687a50d.png",
     "static/media/DSC2322-2-683x1024.jpg": "/Thrive2Survive/static/media/DSC2322-2-683x1024.314b4e61e86119620df3.jpg",
@@ -17,11 +17,11 @@
     "static/media/homeless-connect-flier.jpg": "/Thrive2Survive/static/media/homeless-connect-flier.954e202aa806d87b8a0e.jpg",
     "static/media/thrive2survive.jpg": "/Thrive2Survive/static/media/thrive2survive.c8e0ca8bb56d46c0a859.jpg",
     "index.html": "/Thrive2Survive/index.html",
-    "main.5ae1e54a.css.map": "/Thrive2Survive/static/css/main.5ae1e54a.css.map",
-    "main.97f2234f.js.map": "/Thrive2Survive/static/js/main.97f2234f.js.map"
+    "main.0a7347d1.css.map": "/Thrive2Survive/static/css/main.0a7347d1.css.map",
+    "main.4579d5c7.js.map": "/Thrive2Survive/static/js/main.4579d5c7.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ae1e54a.css",
-    "static/js/main.97f2234f.js"
+    "static/css/main.0a7347d1.css",
+    "static/js/main.4579d5c7.js"
   ]
 }

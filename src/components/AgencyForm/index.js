@@ -45,25 +45,16 @@ function ContactForm() {
   function sendEmail(e) {
     e.preventDefault();
 
-    emailjs
-      .sendForm(
-        "gmail",
-        "template_y91kvra",
-        "#contactForm",
-        "user_OY02r5T8KPqVR1frBk330"
-      )
-      .then(
-        function (response) {
-          console.log(response.text);
-          setFormMessage("Message sent!");
-        },
-        function (error) {
-          console.log(error.text);
-          setFormMessage(
-            "Your message couldn't be sent. Please email Vanessa directly at vlane0593@gmail.com"
-          );
-        }
-      );
+    emailjs.sendForm().then(
+      function (response) {
+        console.log(response.text);
+        setFormMessage("Message sent!");
+      },
+      function (error) {
+        console.log(error.text);
+        setFormMessage("Your message couldn't be sent.");
+      }
+    );
   }
 
   return (
